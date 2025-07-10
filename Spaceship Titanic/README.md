@@ -109,8 +109,8 @@ jupyter notebook Spaceship_Titanic_Classifier.ipynb
 
 * Logistic Regression
 * Random Forest
-* XGBoost / LightGBM
-* StackingClassifier for ensemble learning
+* NeuralNetwork
+
 
 ---
 
